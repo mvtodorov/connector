@@ -43,6 +43,7 @@ class Register extends Component {
   render() {
     return (
       <div className="register">
+      <div> Heil</div>
         <div className="container">
           <div className="row">
             <div className="col-md-8 m-auto">
