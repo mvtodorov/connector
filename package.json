@@ -22,7 +22,10 @@
     "mongoose": "^5.4.22",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
+    "react-redux": "^7.0.2",
+    "redux": "^4.0.1",
     "strip-ansi": "^5.2.0",
+    "thunk": "0.0.1",
     "validator": "^10.11.0"
   },
   "devDependencies": {
